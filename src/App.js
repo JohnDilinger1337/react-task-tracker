@@ -6,7 +6,6 @@ import Tasks from "./components/Tasks";
 import AddTask from "./components/AddTask";
 import About from "./components/About";
 
-console.log(fs);
 
 function App() {
   const [showAddTask, setShowAddTask] = useState(false);
